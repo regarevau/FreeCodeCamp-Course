@@ -1,1 +1,1 @@
-Complete the FreeCodeCamp course.
+Complete the FreeCodeCamp Responsive Web Design course.
